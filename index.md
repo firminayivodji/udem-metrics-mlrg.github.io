@@ -9,9 +9,9 @@ The group is open to PhD students and faculty.
 ## Schedule & Logistics
 ### 2021-22 Academic Year
 Every Wednesday 2pm - 3pm / Location: Harper Center Room 223
-- Fall 2021
+- [Fall 2021](2021F.md)
 
 ### Past Sessions
-- Spring 2021
-- Winter 2021
-- Fall 2020
+- [Spring 2021](2021S.md)
+- [Winter 2021](2020W.md)
+- [Fall 2020](2020F.md)
