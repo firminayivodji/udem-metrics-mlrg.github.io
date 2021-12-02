@@ -1,6 +1,11 @@
 ---
 ---
 @import "{{ site.theme }}";
+
+body {
+  padding:25px;
+}
+
 a {
   color:#28B573;
   text-decoration:none;
