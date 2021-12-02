@@ -7,7 +7,9 @@ The group is open to PhD students and faculty.
 - Student Coordinators (2021-22): Aditya Chaudhry and [Sangmin Oh](https://sangmino.github.io/)
 
 ## Schedule & Logistics
-- **Current Session**: Fall 2021
+### 2021-22 Academic Year
+- Fall 2021
+### Past Sessions
 - Spring 2021
 - Winter 2021
 - Fall 2020
